@@ -19,10 +19,6 @@ Welcome to the Twitter Humor Bot project! This repository houses the code for a 
 
 ## YouTube Demo
 
-Check out the project in action on YouTube!
-
-## YouTube Demo
-
 Watch the project in action on [YouTube](https://youtu.be/LUuZ_V-I5eo?si=buN-dV4V-fXPZpIJ).
 
 ## License
